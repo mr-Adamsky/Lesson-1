@@ -1,0 +1,57 @@
+
+body {
+    font-family: tahoma, sans-serif;
+}
+
+h1
+h2
+h3
+h4
+h5 {
+  margin: 0;
+}
+.card {
+    width: 400px;
+    border-radius: 10px;
+    margin: 70px auto;
+    box-shadow: 0 0 20px gray;
+    padding: 10px 0;
+
+
+}
+
+.student-info {
+   width: 80%;
+   margin: auto;
+   text-align: center;
+}
+
+.student-image { 
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.student-review {
+    width: 80%;
+    margin: auto;
+
+} 
+
+.student-image img {
+    width: 100px;
+    height: 100px;
+    margin: 15px 0;
+    border-radius: 100px;
+
+}
+.student-info h3 {
+    text-align: center;
+}
+
+.student-info h3 {
+    color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
